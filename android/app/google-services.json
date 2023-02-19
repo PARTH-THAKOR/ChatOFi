@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628055888145",
+    "project_id": "chatofi-c868c",
+    "storage_bucket": "chatofi-c868c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628055888145:android:2c651352aeee3055edfcb0",
+        "android_client_info": {
+          "package_name": "com.example.chatofi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628055888145-3d5lduclitdaicbg19hpv7k7tbprtols.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatofi",
+            "certificate_hash": "6c74176a74a63be63a4a50212b264e57a4224b80"
+          }
+        },
+        {
+          "client_id": "628055888145-crlsfl5fifik5mbjq7gi6vi4h2kep2ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJCBABpki3rzysckef47_xRKBB83UPSso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628055888145-crlsfl5fifik5mbjq7gi6vi4h2kep2ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
