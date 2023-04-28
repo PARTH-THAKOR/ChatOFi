@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475594652874",
+    "project_id": "chatofi-roundrobin",
+    "storage_bucket": "chatofi-roundrobin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475594652874:android:6e2ca0102abbf764b24833",
+        "android_client_info": {
+          "package_name": "com.example.chatofi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475594652874-jjtf9e5414ictljqsaq11ok7b5q5lms5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS8D2qDKYsmjGS3EO_LIqTnDwVN_JcW80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475594652874-jjtf9e5414ictljqsaq11ok7b5q5lms5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
