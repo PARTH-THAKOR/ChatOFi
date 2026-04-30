@@ -1,4 +1,4 @@
-# ChatOFi - The Future of Seamless Communication 🚀
+# ChatOFi - Lightweight Chat Application 🚀
 
 ChatOFi is a premium, feature-rich Flutter chat application designed for modern users who value privacy, speed, and a stunning user interface. Built with Firebase and powered by advanced real-time capabilities, ChatOFi offers more than just messaging—it's a complete communication ecosystem.
 
