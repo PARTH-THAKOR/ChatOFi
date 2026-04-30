@@ -17,11 +17,6 @@ ChatOFi is a premium, feature-rich Flutter chat application designed for modern 
 
 ---
 
-## 📸 App Mockups
-
-![ChatOFi Mockups](Images/mockup.png)
-
----
 
 ## 🛠️ Tech Stack
 
